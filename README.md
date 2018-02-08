@@ -8,10 +8,9 @@
 
 * sublime mac上的轻量级编辑器，官网下载就好
 * Any Video Converter Pro，mac上视频格式转换的工具，[https://www.jianshu.com/p/4ed2917e79cf](https://www.jianshu.com/p/4ed2917e79cf "下载链接")
+* ffmpeg，当然如果你会用这个就更方便了，几乎所有播放器和格式软件转换的爸爸
 * 网页版ASCII 在线转换器，[http://www.ab126.com/goju/1711.html](http://www.ab126.com/goju/1711.html "下载链接")
 * 视频demo，什么格式都无所谓了
-
- 
 
 关于视频格式，有两个概念很容易被混淆
 
@@ -20,8 +19,6 @@
 视频封装，举个例子MP4，我们常见的视频文件后缀都是此类，
 
 同一种编码方式也可能有很多视频封装格式，这是两个概念，并不冲突
-
-  
 
 可能有人会说，利用文件后缀可以判断文件类型。
 
